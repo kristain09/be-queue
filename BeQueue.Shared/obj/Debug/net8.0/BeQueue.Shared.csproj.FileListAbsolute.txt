@@ -1,0 +1,11 @@
+D:\Program\BEQueue\BeQueue.Shared\bin\Debug\net8.0\BeQueue.Shared.deps.json
+D:\Program\BEQueue\BeQueue.Shared\bin\Debug\net8.0\BeQueue.Shared.dll
+D:\Program\BEQueue\BeQueue.Shared\bin\Debug\net8.0\BeQueue.Shared.pdb
+D:\Program\BEQueue\BeQueue.Shared\obj\Debug\net8.0\BeQueue.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\BEQueue\BeQueue.Shared\obj\Debug\net8.0\BeQueue.Shared.AssemblyInfoInputs.cache
+D:\Program\BEQueue\BeQueue.Shared\obj\Debug\net8.0\BeQueue.Shared.AssemblyInfo.cs
+D:\Program\BEQueue\BeQueue.Shared\obj\Debug\net8.0\BeQueue.Shared.csproj.CoreCompileInputs.cache
+D:\Program\BEQueue\BeQueue.Shared\obj\Debug\net8.0\BeQueue.Shared.dll
+D:\Program\BEQueue\BeQueue.Shared\obj\Debug\net8.0\refint\BeQueue.Shared.dll
+D:\Program\BEQueue\BeQueue.Shared\obj\Debug\net8.0\BeQueue.Shared.pdb
+D:\Program\BEQueue\BeQueue.Shared\obj\Debug\net8.0\ref\BeQueue.Shared.dll

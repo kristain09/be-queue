@@ -1,0 +1,6 @@
+@BeQueue_HostAddress = http://localhost:5111
+
+GET {{BeQueue_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

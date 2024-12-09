@@ -1,0 +1,27 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3feab79d_002Df435_002D40f6_002Da64f_002D37a764049d2a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ConsumeMessageAsync_ShallReturnEmptyList_OneJobInQueue #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A8358312-CD97-47D9-AFD6-93AA2FE2D771::net8.0::BeQueueTest.Service.JobServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6cf56d83_002D4ccb_002D4ef3_002D9e58_002D0a510d01dd70/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ConsumeMessageAsync_ShallReturnEmptyList_OneJobInQueue" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A8358312-CD97-47D9-AFD6-93AA2FE2D771::net8.0::BeQueueTest.ServiceBusConsumerTest.ConsumeMessageAsync_ShallReturnEmptyList_OneJobInQueue&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=79c296d0_002D2b0a_002D4fd4_002D8104_002Dfcaaea7e2d7d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ConsumeMessageAsync_ShallReturnEmptyList_NoJobInQueue" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A8358312-CD97-47D9-AFD6-93AA2FE2D771::net8.0::BeQueueTest.ServiceBusConsumerTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=88f02c41_002D1b5b_002D4ebd_002D83df_002D01dc6938b0b5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ConsumeMessageAsync_ShallReturnEmptyList_OneJobInQueue #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A8358312-CD97-47D9-AFD6-93AA2FE2D771::net8.0::BeQueueTest.ServiceBusConsumerTest.ConsumeMessageAsync_ShallReturnEmptyList_OneJobInQueue&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9d73cdbb_002D76ff_002D4eec_002D85e6_002Df781cb18cb70/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="IntegrationTestConsumeMessageAsync_QueueShallExists_QueueNameIsExists" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A8358312-CD97-47D9-AFD6-93AA2FE2D771::net8.0::BeQueueTest.ServiceBusConsumerTest.ConsumeMessageAsync_ShallReturnEmptyList_NoJobInQueue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A8358312-CD97-47D9-AFD6-93AA2FE2D771::net8.0::BeQueueTest.ServiceBusConsumerTest.ConsumeMessageAsync_ShallReturnEmptyList_OneJobInQueue&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
